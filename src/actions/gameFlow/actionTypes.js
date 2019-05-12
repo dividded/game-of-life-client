@@ -1,0 +1,5 @@
+export const SWITCH_TILE = "SWITCH_TILE";
+export const NEXT_GENERATION = "NEXT_GENERATION";
+export const CLEAR = "CLEAR";
+export const SET_ALIVE_TILES = "SET_ALIVE_TILES";
+export const GET_NEXT_GENERATION = "GET_NEXT_GENERATION";
